@@ -1,6 +1,6 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
+name: "applewriters blog"
+title: "applewriters blog"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -13,21 +13,21 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  applewriters:
+    name: applewriters
+    display_name: applewriters
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: reu0691@kakao.com
+    web: https://hangjincho.github.io/applewriters/
+    twitter: 
     description: Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
-    name: John
-    display_name: John    
+    name: applewriters
+    display_name: Japplewriters
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: reu0691@kakao.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    web: https://hangjincho.github.io/applewriters/
+    twitter: :
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
